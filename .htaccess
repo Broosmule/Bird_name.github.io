@@ -1,18 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Bird name Competition</title>
-  </head>
-  <body>
-    <script
-      src="https://cdn.commoninja.com/sdk/latest/commonninja.js"
-      defer
-    ></script>
-    <div
-      class="commonninja_component pid-3024ae1b-335c-4619-8348-4a42b3db9b5a"
-    ></div>
-  </body>
-</html>
+DirectoryIndex index.html
